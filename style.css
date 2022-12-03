@@ -46,6 +46,7 @@ button.margin-right {
     margin-right: 20px;
 }
 
-/* .round .b{ */
-    border-radius: 50%;
-/* } */
+.container{
+    display: flex;
+    justify-content: center;
+}
